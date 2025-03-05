@@ -44,10 +44,10 @@ function Nav() {
 
         {/* Navigation Links */}
         <div className="hidden md:flex gap-6">
-          <NavLink to="/" className="text-black text-lg hover:text-teal-300 transition-all">
+          <NavLink to="/" className="text-black text-lg hover:text-teal-50 transition-all">
             Home
           </NavLink>
-          <NavLink to="/explore" className="text-black text-lg hover:text-teal-300 transition-all">
+          <NavLink to="/explore" className="text-black text-lg hover:text-teal-50 transition-all">
             Explore
           </NavLink>
           
